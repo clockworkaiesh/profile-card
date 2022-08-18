@@ -8,7 +8,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <div className="container">
     <App />
-    <h1>hello</h1>
   </div>
 
 )
